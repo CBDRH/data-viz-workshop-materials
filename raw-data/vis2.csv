@@ -1,0 +1,85 @@
+condition,pct,year
+Arthritis(d),13.9,2001
+Asthma,11.6,2001
+Back problems (dorsopathies)(e),21.0,2001
+Cancer (malignant neoplasms),1.4,2001
+Chronic obstructive pulmonary disease (COPD)(f),3.6,2001
+Diabetes mellitus(g),3.4,2001
+Hayfever and allergic rhinitis,15.5,2001
+"Heart, stroke and vascular disease(h)",4.3,2001
+Hypertension(i),10.3,2001
+Kidney disease(j),0.2,2001
+Mental and behavioural conditions(k)(l)(m),9.6,2001
+Osteoporosis(n),1.6,2001
+Arthritis(d),14.9,2004-05
+Asthma,10.3,2004-05
+Back problems (dorsopathies)(e),16.4,2004-05
+Cancer (malignant neoplasms),1.7,2004-05
+Chronic obstructive pulmonary disease (COPD)(f),3.0,2004-05
+Diabetes mellitus(g),,2004-05
+Hayfever and allergic rhinitis,16.0,2004-05
+"Heart, stroke and vascular disease(h)",3.8,2004-05
+Hypertension(i),10.4,2004-05
+Kidney disease(j),0.1,2004-05
+Mental and behavioural conditions(k)(l)(m),10.7,2004-05
+Osteoporosis(n),2.9,2004-05
+Arthritis(d),14.5,2007-08
+Asthma,10.0,2007-08
+Back problems (dorsopathies)(e),14.5,2007-08
+Cancer (malignant neoplasms),1.5,2007-08
+Chronic obstructive pulmonary disease (COPD)(f),2.3,2007-08
+Diabetes mellitus(g),4.1,2007-08
+Hayfever and allergic rhinitis,15.1,2007-08
+"Heart, stroke and vascular disease(h)",5.2,2007-08
+Hypertension(i),9.0,2007-08
+Kidney disease(j),0.1,2007-08
+Mental and behavioural conditions(k)(l)(m),11.1,2007-08
+Osteoporosis(n),3.2,2007-08
+Arthritis(d),13.8,2011-12
+Asthma,10.2,2011-12
+Back problems (dorsopathies)(e),13.2,2011-12
+Cancer (malignant neoplasms),1.4,2011-12
+Chronic obstructive pulmonary disease (COPD)(f),2.3,2011-12
+Diabetes mellitus(g),4.2,2011-12
+Hayfever and allergic rhinitis,16.8,2011-12
+"Heart, stroke and vascular disease(h)",4.5,2011-12
+Hypertension(i),9.6,2011-12
+Kidney disease(j),0.8,2011-12
+Mental and behavioural conditions(k)(l)(m),13.4,2011-12
+Osteoporosis(n),3.1,2011-12
+Arthritis(d),13.9,2014-15
+Asthma,10.8,2014-15
+Back problems (dorsopathies)(e),15.6,2014-15
+Cancer (malignant neoplasms),1.5,2014-15
+Chronic obstructive pulmonary disease (COPD)(f),2.4,2014-15
+Diabetes mellitus(g),4.7,2014-15
+Hayfever and allergic rhinitis,19.5,2014-15
+"Heart, stroke and vascular disease(h)",4.7,2014-15
+Hypertension(i),10.2,2014-15
+Kidney disease(j),0.8,2014-15
+Mental and behavioural conditions(k)(l)(m),17.4,2014-15
+Osteoporosis(n),3.1,2014-15
+Arthritis(d),13.3,2017-18
+Asthma,11.2,2017-18
+Back problems (dorsopathies)(e),15.7,2017-18
+Cancer (malignant neoplasms),1.6,2017-18
+Chronic obstructive pulmonary disease (COPD)(f),2.2,2017-18
+Diabetes mellitus(g),4.3,2017-18
+Hayfever and allergic rhinitis,19.3,2017-18
+"Heart, stroke and vascular disease(h)",4.2,2017-18
+Hypertension(i),9.4,2017-18
+Kidney disease(j),0.9,2017-18
+Mental and behavioural conditions(k)(l)(m),20.0,2017-18
+Osteoporosis(n),3.3,2017-18
+Arthritis(d),12.3,2022
+Asthma,10.8,2022
+Back problems (dorsopathies)(e),14.6,2022
+Cancer (malignant neoplasms),1.5,2022
+Chronic obstructive pulmonary disease (COPD)(f),2.2,2022
+Diabetes mellitus(g),4.5,2022
+Hayfever and allergic rhinitis,23.8,2022
+"Heart, stroke and vascular disease(h)",4.3,2022
+Hypertension(i),9.8,2022
+Kidney disease(j),0.8,2022
+Mental and behavioural conditions(k)(l)(m),26.2,2022
+Osteoporosis(n),2.7,2022

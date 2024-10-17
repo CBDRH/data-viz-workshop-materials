@@ -1,0 +1,46 @@
+﻿status,percent,state
+Excellent,21.9,NSW
+Very good,34.7,NSW
+Good,29.3,NSW
+Fair,10.6,NSW
+Poor,3.5,NSW
+Excellent,22.7,Vic.
+Very good,38.8,Vic.
+Good,26.0,Vic.
+Fair,8.9,Vic.
+Poor,3.0,Vic.
+Excellent,17.8,Qld
+Very good,37.7,Qld
+Good,28.2,Qld
+Fair,12.6,Qld
+Poor,3.7,Qld
+Excellent,20.4,SA
+Very good,35.5,SA
+Good,28.0,SA
+Fair,12.6,SA
+Poor,3.3,SA
+Excellent,20.4,WA
+Very good,36.2,WA
+Good,31.4,WA
+Fair,9.3,WA
+Poor,3.0,WA
+Excellent,18.7,Tas.
+Very good,34.4,Tas.
+Good,29.8,Tas.
+Fair,12.2,Tas.
+Poor,5.1,Tas.
+Excellent,22.4,NT
+Very good,33.1,NT
+Good,31.6,NT
+Fair,9.7,NT
+Poor,2.9,NT
+Excellent,19.2,ACT
+Very good,41.9,ACT
+Good,26.9,ACT
+Fair,8.7,ACT
+Poor,3.4,ACT
+Excellent,21.0,Australia
+Very good,36.8,Australia
+Good,28.2,Australia
+Fair,10.6,Australia
+Poor,3.4,Australia

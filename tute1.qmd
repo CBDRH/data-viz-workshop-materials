@@ -1,0 +1,56 @@
+---
+title: My First Closeread
+format: closeread-html
+---
+
+:::: {.cr-section layout="sidebar-right" style="font-size:30px;"}
+
+Today we will learn about forest plots. @cr-blank
+
+Here is a forest plot published in the journal Circulation @cr-myimage
+
+This plot type combines a typical table structure... [@cr-myimage]{pan-to="30%, 20%" scale-by="1.4"}
+
+...together with a scatterplot of hazard ratios together with confidence intervals [@cr-myimage]{pan-to="-30%, 20%" scale-by="1.4"}
+
+Notice that I have included arrows which help the reader to interpret the direction of effects. [@cr-myimage]{pan-to="-30%, -80%" scale-by="1.4"}
+
+
+:::{#cr-blank}
+
+:::
+
+:::{#cr-myimage}
+![](plots/2024-08-28-forest-plot.png)
+:::
+
+The end of the third and fourth line also rhyme and are nudged in a bit. [@cr-limerick]{highlight="3-4"}
+
+| {#cr-limerick}
+| There was a young rustic named [Mallory]{#cr-mallory},
+| who drew but a very small [salary]{#cr-salary}.
+|   When he went to the show,
+|   his purse made him go
+| to a seat in the uppermost gallery.
+
+The end of the first two lines of a Limerick must rhyme. [@cr-limerick]{highlight="cr-mallory,cr-salary"}
+
+| {#cr-limerick}
+| There was a young rustic named [Mallory]{#cr-mallory},
+| who drew but a very small [salary]{#cr-salary}.
+|   When he went to the show,
+|   his purse made him go
+| to a seat in the uppermost gallery.
+
+This is the first limerick ever recorded. @cr-limerick
+
+| {#cr-limerick .scale-to-fill}
+| There was a young rustic named [Mallory]{#cr-mallory},
+| who drew but a very small [salary]{#cr-salary}.
+|   When he went to the show,
+|   his purse made him go
+| to a seat in the uppermost gallery.
+
+
+::::
+
