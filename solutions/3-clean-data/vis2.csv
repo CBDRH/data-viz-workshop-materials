@@ -1,0 +1,85 @@
+"condition","percent","date"
+"Arthtitis",13.9,2001-07-01
+"Arthtitis",14.9,2005-01-01
+"Arthtitis",14.5,2008-01-01
+"Arthtitis",13.8,2012-01-01
+"Arthtitis",13.9,2015-01-01
+"Arthtitis",13.3,2018-01-01
+"Arthtitis",12.3,2022-07-01
+"Asthma",11.6,2001-07-01
+"Asthma",10.3,2005-01-01
+"Asthma",10,2008-01-01
+"Asthma",10.2,2012-01-01
+"Asthma",10.8,2015-01-01
+"Asthma",11.2,2018-01-01
+"Asthma",10.8,2022-07-01
+"Back problems",21,2001-07-01
+"Back problems",16.4,2005-01-01
+"Back problems",14.5,2008-01-01
+"Back problems",13.2,2012-01-01
+"Back problems",15.6,2015-01-01
+"Back problems",15.7,2018-01-01
+"Back problems",14.6,2022-07-01
+"Cancer",1.4,2001-07-01
+"Cancer",1.7,2005-01-01
+"Cancer",1.5,2008-01-01
+"Cancer",1.4,2012-01-01
+"Cancer",1.5,2015-01-01
+"Cancer",1.6,2018-01-01
+"Cancer",1.5,2022-07-01
+"COPD",3.6,2001-07-01
+"COPD",3,2005-01-01
+"COPD",2.3,2008-01-01
+"COPD",2.3,2012-01-01
+"COPD",2.4,2015-01-01
+"COPD",2.2,2018-01-01
+"COPD",2.2,2022-07-01
+"Diabetes",3.4,2001-07-01
+"Diabetes",NA,2005-01-01
+"Diabetes",4.1,2008-01-01
+"Diabetes",4.2,2012-01-01
+"Diabetes",4.7,2015-01-01
+"Diabetes",4.3,2018-01-01
+"Diabetes",4.5,2022-07-01
+"Allergies",15.5,2001-07-01
+"Allergies",16,2005-01-01
+"Allergies",15.1,2008-01-01
+"Allergies",16.8,2012-01-01
+"Allergies",19.5,2015-01-01
+"Allergies",19.3,2018-01-01
+"Allergies",23.8,2022-07-01
+"Heart, stroke & vascular",4.3,2001-07-01
+"Heart, stroke & vascular",3.8,2005-01-01
+"Heart, stroke & vascular",5.2,2008-01-01
+"Heart, stroke & vascular",4.5,2012-01-01
+"Heart, stroke & vascular",4.7,2015-01-01
+"Heart, stroke & vascular",4.2,2018-01-01
+"Heart, stroke & vascular",4.3,2022-07-01
+"Hypertension",10.3,2001-07-01
+"Hypertension",10.4,2005-01-01
+"Hypertension",9,2008-01-01
+"Hypertension",9.6,2012-01-01
+"Hypertension",10.2,2015-01-01
+"Hypertension",9.4,2018-01-01
+"Hypertension",9.8,2022-07-01
+"Kidney disease",0.2,2001-07-01
+"Kidney disease",0.1,2005-01-01
+"Kidney disease",0.1,2008-01-01
+"Kidney disease",0.8,2012-01-01
+"Kidney disease",0.8,2015-01-01
+"Kidney disease",0.9,2018-01-01
+"Kidney disease",0.8,2022-07-01
+"Mental health",9.6,2001-07-01
+"Mental health",10.7,2005-01-01
+"Mental health",11.1,2008-01-01
+"Mental health",13.4,2012-01-01
+"Mental health",17.4,2015-01-01
+"Mental health",20,2018-01-01
+"Mental health",26.2,2022-07-01
+"Osteoporosis",1.6,2001-07-01
+"Osteoporosis",2.9,2005-01-01
+"Osteoporosis",3.2,2008-01-01
+"Osteoporosis",3.1,2012-01-01
+"Osteoporosis",3.1,2015-01-01
+"Osteoporosis",3.3,2018-01-01
+"Osteoporosis",2.7,2022-07-01
