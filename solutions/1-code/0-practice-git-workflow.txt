@@ -9,3 +9,8 @@ Gambas Pil Pil (Garlic and Chilli Prawns)
 - Bread
 
 # Instructions
+
+- Heat the oil with the garlic and chilli
+- Add the prawns
+- Garnish with parsley
+- Serve with bread
