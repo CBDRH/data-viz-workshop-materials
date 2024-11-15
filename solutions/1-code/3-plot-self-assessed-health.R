@@ -53,9 +53,7 @@ label_text_colors2 <- c(lighten(barCols[1], 0.6),
 legendDf <- data.frame(
   y = rep(9.5, 5),
   x = 10 + 0:4 * 20,
-  label = factor(healthStatus, levels=healthStatus),
-  fill = barCols,
-  color = label_text_colors2
+  label = factor(healthStatus, levels=healthStatus)
 )
 
 
@@ -89,9 +87,7 @@ ggplot() +
     data = legendDf,
     aes(x=x, y=y, fill = label),
       show.legend = FALSE, height=0.65) +
-      scale_fill_manual("",
-      labels = healthStatus,
-      values = barCols) +
+  scale_fill_manual("", labels = healthStatus, values = barCols) +
   scale_color_manual("", values = label_text_colors) +
   new_scale_colour() +
   geom_text( # The legend text

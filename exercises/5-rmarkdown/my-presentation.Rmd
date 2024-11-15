@@ -1,0 +1,16 @@
+---
+title: "Presentation"
+output: html_document
+author: Mark Hanly
+date: "`r Sys.Date()`"
+params:
+  date: "2024-11-22"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Chronic conditions
+
+![](`r paste0(params$date,"-chronic-conditions.png")`)
