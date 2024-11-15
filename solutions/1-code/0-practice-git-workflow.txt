@@ -2,6 +2,10 @@
 Gambas Pil Pil (Garlic and Chilli Prawns)
 
 # Ingredients
-
+- Prawns
+- Garlic
+- Chilli
+- Oil
+- Bread
 
 # Instructions
