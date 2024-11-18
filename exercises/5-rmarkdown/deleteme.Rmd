@@ -1,0 +1,15 @@
+---
+output: html_document
+params:
+  my_class: "speed"
+---
+
+```{r setup, include = FALSE}
+library(ggplot2)
+library(dplyr)
+
+```
+
+# Param is `r params$my_class`
+
+variable is `r cars$params$my_class`

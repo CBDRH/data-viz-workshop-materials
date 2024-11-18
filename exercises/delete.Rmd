@@ -1,0 +1,14 @@
+---
+title: "Parameters Example"
+output: html_document
+params: 
+  date: "November 22nd 2024"
+  dataset: !r cars
+---
+
+The date is `r params$date`
+
+```{r}
+head(params$dataset)
+```
+
