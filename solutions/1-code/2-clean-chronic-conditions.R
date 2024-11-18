@@ -11,15 +11,17 @@
 # Load libraries #
 ##################
 
+library(readxl)
 library(dplyr)
-library(openxlsx)
 library(tidyr)
 
 # Spreadsheet url
-url <- "https://www.abs.gov.au/statistics/health/health-conditions-and-risks/national-health-survey/2022/NHSDC01.xlsx"
+myURL <- "https://www.abs.gov.au/statistics/health/health-conditions-and-risks/national-health-survey/2022/NHSDC01.xlsx"
 
 # Download the file locally
-download.file(url, 'solutions/2-raw-data/national-health-survey-2022-table-1.xlsx')
+download.file(url = myURL,
+              destfile = 'solutions/2-raw-data/national-health-survey-2022-table-1.xlsx',
+              mode = 'wb')
 
 # Read in the raw data
 df2Raw <- read_excel(

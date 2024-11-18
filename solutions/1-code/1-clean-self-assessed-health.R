@@ -24,7 +24,8 @@ myURL <- "https://www.abs.gov.au/statistics/health/health-conditions-and-risks/n
 
 # Download the file locally
 download.file(url = myURL,
-              destfile = 'solutions/2-raw-data/national-health-survey-2022-table-2.xlsx')
+              destfile = 'solutions/2-raw-data/national-health-survey-2022-table-2.xlsx',
+              mode = 'wb')
 
 # Read in the raw data
 df1Raw <- read_excel(
